@@ -2,9 +2,9 @@
 
 *Day 1 (14th Nov)* :  Making my portfolio responsive
 
-**Day 2 (15th Nov) :**  Insta clone project -> Complete auth page 
+**Day 2 (15th Nov) :**  Insta clone project -> Working on auth page 
 
-**Day 3 (16th Nov)** : 
+**Day 3 (16th Nov)** : Complete Auth page 
 
 *Day 4 (16th Nov)* : 
 
