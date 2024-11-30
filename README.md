@@ -4,4 +4,6 @@
 
 **Day 2 (28th Nov) :**  WEB DEV -> Starting wiht Express JS 
 
-**Day 3 (29th Nov) :**  WEB DEV -> 
+**Day 3 (29th Nov) :**  WEB DEV -> Express JS - response, router, postman
+
+**Day 3 (30th Nov) :**  WEB DEV -> 
