@@ -10,4 +10,4 @@
 
 **Day 4 (1st Dec) :**  WEB DEV ->  EJS in Express 
 
-**Day 5 (2nd Dec) :**  WEB DEV ->   
+**Day 5 (2nd Dec) :**  WEB DEV ->   Mongo DB intro 
