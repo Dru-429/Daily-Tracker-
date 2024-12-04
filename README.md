@@ -11,3 +11,7 @@
 **Day 4 (1st Dec) :**  WEB DEV ->  EJS in Express 
 
 **Day 5 (2nd Dec) :**  WEB DEV ->   Mongo DB intro 
+
+**Day 6 (3rd Dec) :**  WEB DEV PROJECT ->   bulding a event page 
+
+**Day 7 (4th Dec) :**  WEB DEV ->   
