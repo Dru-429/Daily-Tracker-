@@ -14,4 +14,4 @@
 
 **Day 6 (3rd Dec) :**  WEB DEV PROJECT ->   bulding a event page 
 
-**Day 7 (4th Dec) :**  WEB DEV ->   
+**Day 7 (4th Dec) :**  WEB DEV PROJECT ->   bulding a event page 
