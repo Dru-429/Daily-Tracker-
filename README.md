@@ -15,3 +15,7 @@
 **Day 6 (3rd Dec) :**  WEB DEV PROJECT ->   bulding a event page 
 
 **Day 7 (4th Dec) :**  WEB DEV PROJECT ->   bulding a event page 
+
+**Day 8 (5th Dec) :**  WEB DEV ->   Mongo DB 
+
+**Day 9 (6th Dec) :**  WEB DEV ->   
