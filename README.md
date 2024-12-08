@@ -18,4 +18,8 @@
 
 **Day 8 (5th Dec) :**  WEB DEV ->   Mongo DB 
 
-**Day 9 (6th Dec) :**  WEB DEV ->   
+**Day 9 (6th Dec) :**  WEB DEV ->   mongo db
+
+**Day 10 (7th Dec) :**  WEB DEV ->   
+
+**Day 9 (8th Dec) :**  WEB DEV ->   Animation
