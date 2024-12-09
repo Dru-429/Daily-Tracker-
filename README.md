@@ -22,4 +22,6 @@
 
 **Day 10 (7th Dec) :**  WEB DEV ->   
 
-**Day 9 (8th Dec) :**  WEB DEV ->   Animation
+**Day 11 (8th Dec) :**  WEB DEV ->   Animation
+
+**Day 12 (9th Dec) :**  WEB DEV PROJECT ->  Completed 
