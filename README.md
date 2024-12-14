@@ -34,4 +34,4 @@
 
 **Day 15 (13th Dec) :**  WEB DEV PROJECT -> Mongoose Schemas
 
-**Day 16 (14th Dec) :**  WEB DEV PROJECT -> 
+**Day 16 (14th Dec) :**  WEB DEV PROJECT -> HTML2Canvas --> Mini Project
