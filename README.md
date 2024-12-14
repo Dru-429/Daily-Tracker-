@@ -26,12 +26,15 @@
 
 **Day 12 (9th Dec) :**  WEB DEV PROJECT ->  Completed 
 
-**Day 13 (10th Dec) :**  WEB DEV PROJECT -> 
+**Day 13 (10th Dec) :**  WEB DEV -> 
 
-**Day 14 (11th Dec) :**  WEB DEV PROJECT -> CURD in MongoDb
+**Day 14 (11th Dec) :**  WEB DEV -> CURD in MongoDb
 
-**Day 14 (12th Dec) :**  WEB DEV PROJECT -> 
+**Day 14 (12th Dec) :**  WEB DEV -> 
 
-**Day 15 (13th Dec) :**  WEB DEV PROJECT -> Mongoose Schemas
+**Day 15 (13th Dec) :**  WEB DEV -> Mongoose Schemas
 
 **Day 16 (14th Dec) :**  WEB DEV PROJECT -> HTML2Canvas --> Mini Project
+
+**Day 17 (15th Dec) :**  WEB DEV -> 
+
