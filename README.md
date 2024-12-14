@@ -28,6 +28,10 @@
 
 **Day 13 (10th Dec) :**  WEB DEV PROJECT -> 
 
-**Day 13 (11th Dec) :**  WEB DEV PROJECT -> 
+**Day 14 (11th Dec) :**  WEB DEV PROJECT -> CURD in MongoDb
 
-**Day 13 (12th Dec) :**  WEB DEV PROJECT -> 
+**Day 14 (12th Dec) :**  WEB DEV PROJECT -> 
+
+**Day 15 (13th Dec) :**  WEB DEV PROJECT -> Mongoose Schemas
+
+**Day 16 (14th Dec) :**  WEB DEV PROJECT -> 
