@@ -1,6 +1,8 @@
 
 1-9th march : exams 
 
-13-16th march : TS 
+11-14th march : TS 
+
+1th Match : ShadCN amd Accernity UI 
 
 16th march : langchain
