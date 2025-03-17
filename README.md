@@ -6,3 +6,5 @@
 1th Match : ShadCN amd Accernity UI 
 
 16th march : langchain
+
+17th march 
