@@ -7,4 +7,4 @@
 
 16th march : langchain
 
-17th march 
+17th march : Solidity 
